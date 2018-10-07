@@ -2,6 +2,7 @@ package Tim;
 
 public class example
 {
+    //First time editing
     public static void main(String[] args)
     {
         byte myByteValue = (byte) 350;
